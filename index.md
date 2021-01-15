@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcom to Sabratific
 
 You can use the [editor on GitHub](https://github.com/mba5/Sabratific/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
