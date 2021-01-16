@@ -1,8 +1,9 @@
-## Welcome to Sabratific -Detailed website coming soon
-Fill the form and get a free e-book of detailed services of Sabratific in your email..
+## Welcome to Sabratific -Detailed Website Coming soon
+Interested in working together to explore  the possiblities of Digital Business? 
+All features and services free for 30 days when Website Platform is setup compeletely.Get started.
 <!-- modify this form HTML and place wherever you want your form -->
 
-<form id="my-form"
+<form id="my-form"ll 
   action="https://formspree.io/f/maylarjo"
   method="POST"
 >
