@@ -1,6 +1,6 @@
 ## Welcome to Sabratific -Detailed Website Coming soon
 Interested in working together to explore  the possiblities of Digital Business? 
-All features and services free for 30 days when Website Platform is setup compeletely.Get started.
+Get started with a free e-book.
 <!-- modify this form HTML and place wherever you want your form -->
 
 <form id="my-form"ll 
@@ -66,7 +66,7 @@ All features and services free for 30 days when Website Platform is setup compel
   }
 </script>
 
-
+All features and services free for 30 days when Website Platform is setup compeletely.
 ### Documentation
 
 ### Social Media Channels
