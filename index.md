@@ -1,5 +1,6 @@
-## Welcome to Sabratific - Explore the possibilities of Digital Entrepreneurship
-# Detailed website setup coming soon.Fill the form and get a free e-book in your email of our services.
+# Welcome to Sabratific - Explore the possibilities of Digital Entrepreneurship
+## Detailed website setup coming soon. 
+Fill the form and get a free e-book of detailed services in your email..
 <!-- modify this form HTML and place wherever you want your form -->
 
 <form id="my-form"
@@ -69,13 +70,14 @@
 </script>
 
 
-### Documentation
+## Documentation
 
-### Social Media Channels
+## Social Media Channels
 Get an overview video of our offerings by visitiing our youtube page ( https://youtu.be/-8HEFWKmpvU )
-### Documentation
+
 
 ### Support or Contact
+Feel free to contact us.
 <form id="my-form"
   action="https://formspree.io/f/maylarjo"
   method="POST"
