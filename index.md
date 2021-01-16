@@ -1,10 +1,6 @@
 ## Welcome to Sabratific
 
 
-
-
-
-
 ### Documentation
 
 ### Support or Contact
