@@ -3,11 +3,11 @@
 <html>
 <body>
   
- <iframe src="https://drive.google.com/file/d/17SHcdyPSmaDTQjv65Lp6vJVo5-dIO68g/view?usp=sharing"></iframe>
+<iframe src="https://drive.google.com/file/d/17SHcdyPSmaDTQjv65Lp6vJVo5-dIO68g/preview" width="640" height="480"></iframe>
   
   <!--aloow full screen add tag -->
   
-<iframe allowfullscreen="allowfullscreen" src="https://mba5.github.io/Sabratific/preview" ></iframe>
+<iframe allowfullscreen="allowfullscreen" src="https://drive.google.com/file/d/17SHcdyPSmaDTQjv65Lp6vJVo5-dIO68g/view?usp=sharing" ></iframe>
 
 </body>
 </html>
