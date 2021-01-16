@@ -8,12 +8,9 @@ Fill the form and get a free e-book of detailed services of Sabratific in your e
 >
   <label>Email:</label>
   <input type="email" name="email" />
-  <label>Message:</label>
-  
-  <input type="name" name="Full Name" />
   <label>Full Name:</label>
   
- 
+  <input type="name" name="Full Name" /> 
   <button id="my-form-button">Submit</button>
   <p id="my-form-status"></p>
 </form>
