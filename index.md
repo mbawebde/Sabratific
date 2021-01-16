@@ -1,17 +1,14 @@
 ## Welcome to Sabratific -Detailed Website Coming soon
 Interested in working together to explore  the possiblities of Digital Business? 
 Get started with a free e-book.
-<!-- modify this form HTML and place wherever you want your form -->
-
-<form id="my-form"ll 
+<form id="my-form"
   action="https://formspree.io/f/maylarjo"
   method="POST"
 >
   <label>Email:</label>
   <input type="email" name="email" />
-  <label>Full Name:</label>
-  
-  <input type="name" name="Full Name" /> 
+  <label>Message:</label>
+  <input type="text" name="message" />
   <button id="my-form-button">Submit</button>
   <p id="my-form-status"></p>
 </form>
@@ -65,6 +62,7 @@ Get started with a free e-book.
     xhr.send(data);
   }
 </script>
+
 
 All features and services free for 30 days when Website Platform is setup compeletely.
 ### Documentation
