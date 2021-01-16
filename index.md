@@ -1,6 +1,5 @@
-### Welcome to Sabratific - Explore the possibilities of Digital Entrepreneurship
-### Detailed website setup coming soon. 
-Fill the form and get a free e-book of detailed services in your email..
+## Welcome to Sabratific -Detailed website coming soon
+Fill the form and get a free e-book of detailed services of Sabratific in your email..
 <!-- modify this form HTML and place wherever you want your form -->
 
 <form id="my-form"
@@ -11,14 +10,10 @@ Fill the form and get a free e-book of detailed services in your email..
   <input type="email" name="email" />
   <label>Message:</label>
   
-  <input type="text" name="message" />
+  <input type="name" name="Full Name" />
   <label>Full Name:</label>
   
-  <input type="string" name="Full Name" />
-  <label>Number:</label>
-  
-  <input type="float" name="Number" />
-  
+ 
   <button id="my-form-button">Submit</button>
   <p id="my-form-status"></p>
 </form>
