@@ -1,5 +1,5 @@
 ## Welcome to Sabratific - Detailed Website Coming Soon
-https://github.com/mba5/Sabratific/blob/gh-pages/Project%20Name..mp4
+![mba5](http://lmsotfy.com/so.png)
 Interested in working together to explore  the possiblities of Digital Business? 
 Get started with a free e-book.
 <form id="my-form"
