@@ -78,7 +78,7 @@ All features and services free for 30 days when Website Platform is setup compel
 ### Documentation
 
 ### Social Media Channels
-<iframe src="https://www.youtube.com/embed/-8HEFWKmpvU" frameborder="0" allowTransparency="true" style="border:none;overflow:hidden;width:480;height:360;"></iframe>
+<iframe src="https://www.youtube.com/embed/-8HEFWKmpvU" frameborder="0" allowTransparency="true" style="border:none;overflow:hidden;width:480;height:360;"></iframe> 
 
 ### Support or Contact
 Feel free to contact us.
