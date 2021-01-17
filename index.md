@@ -1,5 +1,6 @@
 ## Welcome to Sabratific - Detailed Website Coming Soon
-![mba5](https://github.com/mba5/Sabratific/blob/gh-pages/Sabratific%20Logo.png)
+#![mba5](https://github.com/mba5/Sabratific/blob/gh-pages/Sabratific%20Logo.png)
+
 Interested in working together to explore  the possiblities of Digital Business? 
 Get started with a free e-book.
 <form id="my-form"
@@ -18,7 +19,7 @@ Get started with a free e-book.
 
 <script>
   window.addEventListener("DOMContentLoaded", function() {
-
+ 
     // get the form elements defined in your form HTML above
     
     var form = document.getElementById("my-form");
