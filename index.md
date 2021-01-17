@@ -1,4 +1,4 @@
-## WELCOME TO SABRATIFIC -DETAILED WEBSITE S00N
+## Welcome to Sabratific - Detailed Website Coming Soon
 Interested in working together to explore  the possiblities of Digital Business? 
 Get started with a free e-book.
 <form id="my-form"
