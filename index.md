@@ -78,7 +78,7 @@ All features and services free for 30 days when Website Platform is setup compel
 ### Documentation
 
 ### Social Media Channels
-<iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0"width="788.54" height="443" type="text/html" src="https://www.youtube.com/embed/-8HEFWKmpvU?autoplay=1&fs=0&iv_load_policy=1&showinfo=0&rel=0&cc_load_policy=0&start=1&end=272&vq=hd1080&origin=https://youtubeembedcode.com"><div><small><a href="https://youtubeembedcode.com/en">youtubeembedcode en</a></small></div><div><small><a href="http://tr3ndygirl.com/">Ultimate web Traffic</a></small></div></iframe>
+<iframe src="https://www.youtube.com/embed/-8HEFWKmpvU" frameborder="0" allowTransparency="true" style="border:none;overflow:hidden;width:480;height:360;"></iframe>
 
 ### Support or Contact
 Feel free to contact us.
