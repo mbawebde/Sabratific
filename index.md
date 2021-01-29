@@ -24,7 +24,7 @@ All features and services free for 30 days when Website Platform is setup compel
 
 ## Social Media Channels
 <iframe src="https://www.youtube.com/embed/-8HEFWKmpvU" frameborder="0" allowTransparency="true" style="border:none;overflow:hidden;width:480;height:360;"></iframe> 
-
+<iframe width="760px" height="500px" src="https://sway.office.com/s/18OPbYUd0XZjKMry/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
 ## Support or Contact
 Feel free to contact us.
 <form id="my-form"
