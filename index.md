@@ -5,7 +5,7 @@
 # Welcome to Sabratific - Detailed Website Coming Soon
 ##  Vision Statement
 To bring to awareness the possibilities of digital entrepreneurship
-## Video describing  Sabratific Goals and Services
+## Video Describing  Sabratific Goals and Services
 <iframe width="760px" height="500px" src="https://sway.office.com/s/N6FhU6SCjJJst7fH/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
 
 
