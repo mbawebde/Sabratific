@@ -1,5 +1,5 @@
 ## WELCOME
-### FILL IN NOW. WE ARE LOOKING FORWARD TO YOUR MESSAGE!FEEL FREE TO CONTACT US.
+### FILL IN NOW. WE ARE LOOKING FORWARD TO YOUR MESSAGE! FEEL FREE TO CONTACT US.
 <form id="my-form"
   action="https://formspree.io/f/maylarjo"
   method="POST"
@@ -61,7 +61,7 @@
     xhr.send(data);
   }
 </script>
-<iframe src="https://storage.ning.com/topology/rest/1.0/file/get/8526093465?profile=original" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="2500px" width="1200px" allowfullscreen></iframe>
+<iframe src="https://storage.ning.com/topology/rest/1.0/file/get/8526093465?profile=original" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="2300px" width="1200px" allowfullscreen></iframe>
 
 
 
