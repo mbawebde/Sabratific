@@ -1,5 +1,5 @@
 ## WELCOME
-### Fill in now. We are looking forward to your message!Feel free to contact us.
+### FILL IN NOW. WE ARE LOOKING FORWARD TO YOUR MESSAGE!FEEL FREE TO CONTACT US.
 <form id="my-form"
   action="https://formspree.io/f/maylarjo"
   method="POST"
