@@ -1,4 +1,4 @@
-# WELCOME TO SABRATIFIC COMPANY -Explore the possiblities of Digital Entrepreneurship -Detailed Website Coming Soon.
+# WELCOME TO SABRATIFIC COMPANY -Explore the possiblities of Digital Entrepreneurship - Detailed Website Coming Soon.
 # Sabratific is an online platform where traditional businesses can go digital and adopt digital entrepreneurship with originality, honesty and authenticity.
 # Fill in now. We are looking forward to your message!Feel free to contact us.
 <form id="my-form"
