@@ -5,6 +5,7 @@
 # Welcome to Sabratific - Detailed Website Coming Soon
 ##  Vision Statement
 To bring to awareness the possibilities of digital entrepreneurship
+<iframe src="https://storage.ning.com/topology/rest/1.0/file/get/8525085082?profile=original" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="600px" allowfullscreen></iframe>
 ## Video Describing  Sabratific Goals and Services
 <iframe width="760px" height="500px" src="https://sway.office.com/s/N6FhU6SCjJJst7fH/embed" frameborder="0" marginheight="0" marginwidth="0" max-width="100%" sandbox="allow-forms allow-modals allow-orientation-lock allow-popups allow-same-origin allow-scripts" scrolling="no" style="border: none; max-width: 100%; max-height: 100vh" allowfullscreen mozallowfullscreen msallowfullscreen webkitallowfullscreen></iframe>
 ## Please Click the arrow to the right to start Video
