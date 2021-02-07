@@ -28,7 +28,7 @@
     function success() {
       form.reset();
       button.style = "display: none ";
-      status.innerHTML = "Thanks!";
+      status.innerHTML = "Thanks for the message. Your submission has been recieved. We will get back to you soon.";
     }
 
     function error() {
