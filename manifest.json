@@ -1,0 +1,25 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "Sign In - Sabratify",
+  "short_name": "Sign In - Sabra",
+  "scope": "/main/authorization/signIn?target=https%3A%2F%2Fwww.sabratify.com%2F",
+  "display": "browser",
+  "start_url": "https://sabratify.com",
+  "background_color": "#000000",
+  "theme_color": "transparent",
+  "description": "Sabratify's helps you find the right interviewer by browsing through a lot of profiles.",
+  "orientation": "any",
+  "related_applications": [],
+  "prefer_related_applications": "false",
+  "icons": [
+    {
+      "src": "https://www.sabratify.com/favicon.png?r=1612978453",
+      "type": "image/png",
+      "sizes": "32x32"
+    }
+  ],
+  "url": "https://sabratify.com",
+  "screenshots": [],
+  "generated": true
+}
