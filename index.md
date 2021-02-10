@@ -11,7 +11,7 @@
   <button id="my-form-button">Submit</button>
   <p id="my-form-status"></p>
 </form>
-<link rel='manifest' href='/manifest.json'>
+<head><link rel='manifest' href='/manifest.json'></head>
 <script>
 // This is the "Offline page" service worker
 
