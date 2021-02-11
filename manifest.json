@@ -1,0 +1,17 @@
+{
+  "dir": "ltr",
+  "lang": "en-US",
+  "name": "Sabratific",
+  "short_name": "Sabratific",
+  "scope": "/Sabratific/",
+  "display": "browser",
+  "start_url": "https://mba5.github.io/Sabratific/",
+  "background_color": "#000000",
+  "theme_color": "transparent",
+  "description": "Explore the Possibilities of Digital Entrepreneurship with originality, honesty, and authenticity.",
+  "orientation": "any",
+  "related_applications": [],
+  "prefer_related_applications": "false",
+  "icons": [],
+  "url": "https://mba5.github.io/Sabratific/"
+}
