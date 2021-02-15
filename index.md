@@ -65,10 +65,12 @@
 </script>
 #### All of our Services are free for 60 days after detailed Website setup.Hurry...Save your spot.Email us.
 ## Entrepreneur assignment 9 final presentation pdf
+
 <script src='/path-to-your-javascript-file/pdfobject.js'></script>
 <script>
 PDFObject.embed("https://github.com/mba5/Sabratific/blob/gh-pages/Final%20Pitch%20Presentation.pdf");
 </script>
+## Please download
 <iframe src="https://storage.ning.com/topology/rest/1.0/file/get/8526093465?profile=original" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="0" marginheight="0px" marginwidth="0px" height="2000px" width="1200px" allowfullscreen></iframe>
 
 
